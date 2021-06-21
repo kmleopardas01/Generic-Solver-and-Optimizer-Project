@@ -1,0 +1,21 @@
+
+INSTALLATION 
+Make sure all the necessary document are included in a folder which lies in the same working directory. These files are the following:
+
+i. QSI.r 
+
+ii. PolynomialRegression.r
+
+iii. SimplexProject.r
+
+iv. GaussJordanMethod.r
+
+v. GaussJordanMethodMod1.r
+
+vi. app.r
+
+
+	Then you can run it with your RStudio.
+	
+
+
